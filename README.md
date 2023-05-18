@@ -1,5 +1,5 @@
 # User: Jordan Nelson
-Find Different Projects in the branches of this Reop
+# Find Different Projects in the branches of this Repo
 I am an Artificial Intelligence Doctoral Researcher at the University of Brighton. My current research is looking at applied machine learning, and how to improve its accuracy and reliability. This is my personal Repo, here you will find branches to different projects I’ve completed. Before you read on 
 
 ======================================================================================================
